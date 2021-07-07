@@ -1,3 +1,5 @@
+Github project has been forked, and customized to my requirements.
+
 # Installation
 
 1. Navigate to your app directory where you want to include this style configuration.
